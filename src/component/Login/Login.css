@@ -1,0 +1,22 @@
+.log{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+    justify-content: space-between;
+    width: 600px;
+    height: 400px;
+    background-color: blue;
+}
+.username{
+    width: 400px;
+    height: 50px;
+    border-radius: 35px;
+    justify-content: space-between;
+    margin-bottom: 40px;
+    margin-top: 30px;
+}
+#button{
+    width:200px;
+    border-radius: 30px;
+}
